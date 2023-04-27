@@ -1,0 +1,60 @@
+img.alpaka{
+    border-radius: 50%;
+    height: 70px;
+    margin-left: 260px;
+    width: 70px;
+
+}
+.top-blue{
+
+    display: flex;
+    flex-direction: column;
+    background-color: #BDB76B	;
+}
+.alpaka-links{
+    display: flex;
+    justify-content: space-between;
+}
+li{
+    font-size: 20px;
+    color: #85144b
+    ;
+    list-style: none;
+
+
+   
+}
+ul{
+    display: flex;
+    margin-right: 310px;
+    gap: 80px;
+}
+button{
+    padding: 20px;
+    width: 120px;
+    height: 35px;
+    margin-bottom: 110px;
+    border-radius: 12px;
+    text-align: center;
+    padding: 0px;
+    background-color: #3882f6;
+
+}
+.sentences{
+    margin-left: 160px;
+}
+.bear{
+    height: 240px;
+    width: 670px;
+    margin-right: 200px;
+    margin-bottom: 100px;
+    margin-top: 20px;
+    
+   
+}
+.pns{
+    align-items: start ;
+    gap: 200px;
+    justify-content: center;
+    display: flex;
+}
