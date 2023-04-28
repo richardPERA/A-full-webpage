@@ -58,3 +58,77 @@ button{
     justify-content: center;
     display: flex;
 }
+ /* from now on the body */
+ 
+ .sp{
+    border: 2px dashed  #FFD700;
+    width: 300px;
+    height: 200px;
+ } 
+ .item{
+
+  text-align:center;
+  margin-left: 300px;
+  
+ }
+ .h2{
+    font-size: 42px;
+    text-align: center;
+    width: 600px;
+    margin-left: 390px;
+ }
+ .mid{
+    background-color: #e5e7eb;
+    height: 300px;
+    text-align: center;
+ }
+ #quote{
+    font-size: 36px;
+    font-weight: light italic;
+    color: #1F2937;
+    padding-top: 100px;
+ }
+ #person{
+    text-align: right;
+    margin-right: 750px;
+    margin-bottom: 200px;
+    font-weight: bold;
+ }
+ .add{
+    justify-content: space-around;
+    display: flex;
+    width: 800px;
+    border: 2px solid #cbcbd4;
+    background-color: #3882f6;
+    margin-left: 500px;
+    margin-top: 100px;
+    height: 100px;
+ }
+ .sign{
+   border-radius: 0px;
+    margin-top: 30px;
+    border: 2px solid white;
+    color: white;
+    width: 190px;
+ }
+ /* from now on the footer */
+ .footer{
+    background-color: #1F2937;
+    height: 90px;
+    text-align: center;
+    
+
+ }
+ .copyright{
+    height: 10px;
+    margin: auto;
+
+    width: 10px;
+ }
+ .end{
+    padding-top: 40px;
+    margin: auto;
+    color: white;
+
+
+ }
